@@ -1,5 +1,4 @@
 <html>
-</head>
   <body>
     <h1>Plano de Desenvolvimento</h1>
     <p>1ª Semana</p>
@@ -50,7 +49,6 @@
       <li>Implementação das estratégias de venda e promoção dos produtos</li>
       <li>Avaliação dos resultados e ajuste do plano de ação para a continuidade do projeto</
 
-        <!DOCTYPE html>
 <html>
   <head>
     <title>Cultivos Beneficiados pela Presença de Abelhas</title>
