@@ -1,7 +1,7 @@
 <html>
 </head>
   <body>
-    <h1>Projeto de Desenvolvimento</h1>
+    <h1>Plano de Desenvolvimento</h1>
     <p>1ª Semana</p>
     <ul>
       <li>Definição dos objetivos e metas do projeto</li>
