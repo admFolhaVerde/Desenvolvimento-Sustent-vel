@@ -49,3 +49,52 @@
     <ul>
       <li>Implementação das estratégias de venda e promoção dos produtos</li>
       <li>Avaliação dos resultados e ajuste do plano de ação para a continuidade do projeto</
+
+        <!DOCTYPE html>
+<html>
+  <head>
+    <title>Cultivos Beneficiados pela Presença de Abelhas</title>
+  </head>
+  <body>
+    <h2>Cultivos que Podem se Beneficiar da Presença de Abelhas</h2>
+    <ul>
+      <li>
+        <strong>Açaí:</strong> A polinização das flores do açaí é realizada por abelhas, especialmente pela abelha Jandaíra (Melipona subnitida), além de outras espécies de abelhas sem ferrão.
+      </li>
+      <li>
+        <strong>Cupuaçu:</strong> A polinização das flores do cupuaçu é feita principalmente por abelhas da espécie Xylocopa frontalis, conhecida popularmente como mamangava.
+      </li>
+      <li>
+        <strong>Cacau:</strong> A polinização do cacau é feita principalmente por moscas e, em menor grau, por abelhas. No entanto, a presença de abelhas na área pode aumentar a taxa de polinização, o que pode aumentar a produção e qualidade dos frutos.
+      </li>
+      <li>
+        <strong>Café:</strong> A polinização do café é feita principalmente por abelhas da espécie Apis mellifera, além de outras espécies de abelhas selvagens.
+      </li>
+      <li>
+        <strong>Frutíferas em Geral:</strong> A presença de abelhas pode aumentar a polinização e, consequentemente, a produção de diversas frutíferas, como mangueira, laranjeira, limoeiro, entre outras.
+      </li>
+    </ul>
+  </body>
+</html>
+
+        
+        <html>
+  <head>
+    <title>Épocas de Floração na Amazônia</title>
+  </head>
+  <body>
+    <h1>Épocas de Floração na Amazônia</h1>
+    <ul>
+      <li>Castanha-do-Brasil (Bertholletia excelsa): de janeiro a abril;</li>
+      <li>Cupuaçu (Theobroma grandiflorum): de setembro a novembro;</li>
+      <li>Açaí (Euterpe oleracea): de julho a dezembro;</li>
+      <li>Bacuri (Platonia insignis): de janeiro a março;</li>
+      <li>Cajá (Spondias mombin): de setembro a dezembro;</li>
+      <li>Inajá (Maximiliana maripa): de janeiro a abril;</li>
+      <li>Jatobá (Hymenaea courbaril): de julho a setembro;</li>
+      <li>Murici (Byrsonima crassifolia): de dezembro a fevereiro;</li>
+      <li>Pequiá (Caryocar villosum): de novembro a fevereiro;</li>
+      <li>Pupunha (Bactris gasipaes): de junho a setembro.</li>
+    </ul>
+  </body>
+</html>
