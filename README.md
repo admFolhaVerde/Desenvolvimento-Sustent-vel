@@ -77,6 +77,7 @@
 
         
         
+<!DOCTYPE html>
 <html>
 <head>
 	<title>Épocas de floração na Amazônia</title>
@@ -95,8 +96,8 @@
 		<li>Pequiá (Caryocar villosum): de novembro a fevereiro;</li>
 		<li>Pupunha (Bactris gasipaes): de junho a setembro.</li>
 	</ul>
-
-	<p>Aqui está uma imagem relacionada à Amazônia:</p>
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Amazon_Rainforest_-_trees.jpg/1920px-Amazon_Rainforest_-_trees.jpg" alt="Amazônia" width="500">
+	<p>Imagem do mapa da Amazônia:</p>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Amazonia_Map.jpg/640px-Amazonia_Map.jpg" alt="Mapa da Amazônia">
 </body>
 </html>
+
