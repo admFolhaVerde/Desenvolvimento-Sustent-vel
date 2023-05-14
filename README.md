@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
     <title>Folha Verde - Produção Interdisciplinar</title>
