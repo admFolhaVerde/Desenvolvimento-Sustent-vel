@@ -76,23 +76,27 @@
 </html>
 
         
-        <html>
-  <head>
-    <title>Épocas de Floração na Amazônia</title>
-  </head>
-  <body>
-    <h1>Épocas de Floração na Amazônia</h1>
-    <ul>
-      <li>Castanha-do-Brasil (Bertholletia excelsa): de janeiro a abril;</li>
-      <li>Cupuaçu (Theobroma grandiflorum): de setembro a novembro;</li>
-      <li>Açaí (Euterpe oleracea): de julho a dezembro;</li>
-      <li>Bacuri (Platonia insignis): de janeiro a março;</li>
-      <li>Cajá (Spondias mombin): de setembro a dezembro;</li>
-      <li>Inajá (Maximiliana maripa): de janeiro a abril;</li>
-      <li>Jatobá (Hymenaea courbaril): de julho a setembro;</li>
-      <li>Murici (Byrsonima crassifolia): de dezembro a fevereiro;</li>
-      <li>Pequiá (Caryocar villosum): de novembro a fevereiro;</li>
-      <li>Pupunha (Bactris gasipaes): de junho a setembro.</li>
-    </ul>
-  </body>
+        
+<html>
+<head>
+	<title>Épocas de floração na Amazônia</title>
+</head>
+<body>
+	<h1>Épocas de floração natural de algumas espécies vegetais na Amazônia e seus respectivos meses:</h1>
+	<ul>
+		<li>Castanha-do-Brasil (Bertholletia excelsa): de janeiro a abril;</li>
+		<li>Cupuaçu (Theobroma grandiflorum): de setembro a novembro;</li>
+		<li>Açaí (Euterpe oleracea): de julho a dezembro;</li>
+		<li>Bacuri (Platonia insignis): de janeiro a março;</li>
+		<li>Cajá (Spondias mombin): de setembro a dezembro;</li>
+		<li>Inajá (Maximiliana maripa): de janeiro a abril;</li>
+		<li>Jatobá (Hymenaea courbaril): de julho a setembro;</li>
+		<li>Murici (Byrsonima crassifolia): de dezembro a fevereiro;</li>
+		<li>Pequiá (Caryocar villosum): de novembro a fevereiro;</li>
+		<li>Pupunha (Bactris gasipaes): de junho a setembro.</li>
+	</ul>
+
+	<p>Aqui está uma imagem relacionada à Amazônia:</p>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Amazon_Rainforest_-_trees.jpg/1920px-Amazon_Rainforest_-_trees.jpg" alt="Amazônia" width="500">
+</body>
 </html>
