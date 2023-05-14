@@ -1,7 +1,5 @@
 <html>
-  <head>
-    <title>Folha Verde - Produção Interdisciplinar</title>
-  </head>
+</head>
   <body>
     <h1>Projeto de Desenvolvimento</h1>
     <p>1ª Semana</p>
